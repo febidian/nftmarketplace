@@ -592,7 +592,7 @@ function Home(props) {
               rel="noopener noreferrer"
               href="https://imsaputra.my.id/"
             >
-              Imsaputra.com &nbsp;
+              Imsaputra.my.id &nbsp;
             </a>
           </div>
           <div>
