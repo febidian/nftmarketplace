@@ -590,7 +590,7 @@ function Home(props) {
               className="text-violet-400"
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.imsaputra.com/"
+              href="https://imsaputra.my.id/"
             >
               Imsaputra.com &nbsp;
             </a>
