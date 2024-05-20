@@ -329,7 +329,7 @@ function Home(props) {
                         <div className="bg-grayblue-500 rounded-xl p-2 w-full flex flex-col ">
                           <div className="w-full object-center relative overflow-hidden">
                             <img
-                              src={job.artworksUrl}
+                              src="https://picsum.photos/640/480"
                               alt=""
                               className="w-full h-full object-cover rounded-md "
                             />
